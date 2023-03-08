@@ -1,3 +1,2 @@
-Demo repository for the CodingNomads Spring course
+Demo repository for the CodingNomads Spring course.
 
- codingnomads.com
